@@ -1,8 +1,3 @@
-Sure! Here's a clean and concise **`README.md`** for your **Password Strength Checker (CLI version)** project:
-
----
-
-````markdown
 # 🔐 Password Strength Checker (Python CLI)
 
 A simple interactive Python CLI tool to check the strength of a password based on common security rules. Get instant feedback and tips to improve your password.
