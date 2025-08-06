@@ -54,4 +54,3 @@ Suggestions:
 
 Feel free to fork and contribute improvements!
 Let me know if you'd like a version that includes badges, author info, or a project logo section.
-```
